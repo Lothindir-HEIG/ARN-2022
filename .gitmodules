@@ -1,0 +1,9 @@
+[submodule "PW3/docs"]
+	path = PW3/docs
+	url = https://github.com/Lothindir/pandoc-heig.git
+[submodule "PW4/docs"]
+	path = PW4/docs
+	url = https://github.com/Lothindir/pandoc-heig.git
+[submodule "PW5/docs"]
+	path = PW5/docs
+	url = https://github.com/Lothindir/pandoc-heig.git
